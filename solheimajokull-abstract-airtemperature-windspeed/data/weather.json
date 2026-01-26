@@ -1,0 +1,188 @@
+[
+  {
+    "Date": "1/9/2013",
+    "AirTemp": 12.1,
+    "Humidity": 63.8,
+    "WindSpd": 0.3
+  },
+  {
+    "Date": "2/9/2013",
+    "AirTemp": 10.8,
+    "Humidity": 72.6,
+    "WindSpd": 1.4
+  },
+  {
+    "Date": "3/9/2013",
+    "AirTemp": 10.5,
+    "Humidity": 73.5,
+    "WindSpd": 2
+  },
+  {
+    "Date": "4/9/2013",
+    "AirTemp": 9.7,
+    "Humidity": 74.5,
+    "WindSpd": 1.2
+  },
+  {
+    "Date": "5/9/2013",
+    "AirTemp": 9.8,
+    "Humidity": 75.9,
+    "WindSpd": 1.8
+  },
+  {
+    "Date": "6/9/2013",
+    "AirTemp": 9.3,
+    "Humidity": 73.9,
+    "WindSpd": 1.3
+  },
+  {
+    "Date": "7/9/2013",
+    "AirTemp": 8.2,
+    "Humidity": 75.5,
+    "WindSpd": 1.2
+  },
+  {
+    "Date": "8/9/2013",
+    "AirTemp": 8.7,
+    "Humidity": 84.1,
+    "WindSpd": 0.7
+  },
+  {
+    "Date": "9/9/2013",
+    "AirTemp": 8.9,
+    "Humidity": 84.9,
+    "WindSpd": 1.8
+  },
+  {
+    "Date": "10/9/2013",
+    "AirTemp": 7.9,
+    "Humidity": 84.6,
+    "WindSpd": 1.5
+  },
+  {
+    "Date": "11/9/2013",
+    "AirTemp": 8.4,
+    "Humidity": 80,
+    "WindSpd": 1.2
+  },
+  {
+    "Date": "12/9/2013",
+    "AirTemp": 7.2,
+    "Humidity": 77.1,
+    "WindSpd": 2
+  },
+  {
+    "Date": "13/9/2013",
+    "AirTemp": 8.7,
+    "Humidity": 71.2,
+    "WindSpd": 2.5
+  },
+  {
+    "Date": "14/9/2013",
+    "AirTemp": 8.3,
+    "Humidity": 72.2,
+    "WindSpd": 2.2
+  },
+  {
+    "Date": "15/9/2013",
+    "AirTemp": 6.7,
+    "Humidity": 82.7,
+    "WindSpd": 0.9
+  },
+  {
+    "Date": "16/9/2013",
+    "AirTemp": 7.4,
+    "Humidity": 75.2,
+    "WindSpd": 2.6
+  },
+  {
+    "Date": "17/9/2013",
+    "AirTemp": 8.8,
+    "Humidity": 73.6,
+    "WindSpd": 0.7
+  },
+  {
+    "Date": "18/9/2013",
+    "AirTemp": 9.3,
+    "Humidity": 76.5,
+    "WindSpd": 2.1
+  },
+  {
+    "Date": "19/9/2013",
+    "AirTemp": 6.7,
+    "Humidity": 85.4,
+    "WindSpd": 1.7
+  },
+  {
+    "Date": "20/9/2013",
+    "AirTemp": 8.2,
+    "Humidity": 88.4,
+    "WindSpd": 2.7
+  },
+  {
+    "Date": "21/9/2013",
+    "AirTemp": 9,
+    "Humidity": 90.3,
+    "WindSpd": 1.9
+  },
+  {
+    "Date": "22/9/2013",
+    "AirTemp": 9.4,
+    "Humidity": 91.1,
+    "WindSpd": 0.9
+  },
+  {
+    "Date": "23/9/2013",
+    "AirTemp": 5.3,
+    "Humidity": 88.4,
+    "WindSpd": 7
+  },
+  {
+    "Date": "24/9/2013",
+    "AirTemp": 6.3,
+    "Humidity": 72.1,
+    "WindSpd": 5.9
+  },
+  {
+    "Date": "25/9/2013",
+    "AirTemp": 6.3,
+    "Humidity": 65,
+    "WindSpd": 6.4
+  },
+  {
+    "Date": "26/9/2013",
+    "AirTemp": 6.3,
+    "Humidity": 55.4,
+    "WindSpd": 8.3
+  },
+  {
+    "Date": "27/9/2013",
+    "AirTemp": 6.9,
+    "Humidity": 49.5,
+    "WindSpd": 6
+  },
+  {
+    "Date": "28/9/2013",
+    "AirTemp": 6.1,
+    "Humidity": 61.3,
+    "WindSpd": 2.9
+  },
+  {
+    "Date": "29/9/2013",
+    "AirTemp": 10.5,
+    "Humidity": 48.7,
+    "WindSpd": 6.3
+  },
+  {
+    "Date": "30/9/2013",
+    "AirTemp": 10.7,
+    "Humidity": 51,
+    "WindSpd": 5.4
+  },
+  {
+    "Date": "31/9/2013",
+    "AirTemp": 11.4,
+    "Humidity": 57.4,
+    "WindSpd": 4.6
+  }
+]
